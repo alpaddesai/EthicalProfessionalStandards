@@ -4,3 +4,5 @@ The project provides a high level overview of the academic knowledge associated 
 
 ![image](EthicalStandards.jpg)
 ##### reference 11th hr guide CFA level I/II
+
+Additional details reference https://github.com/alpaddesai/CFA
