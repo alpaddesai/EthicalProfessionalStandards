@@ -6,8 +6,24 @@
         xmlns:local="clr-namespace:EthicalProfessionalStandards"
         mc:Ignorable="d"
         Title="MainWindow" Height="579" Width="971" MaxWidth="976" MaxHeight="579">
-    <Grid Margin="0,0,201,117">
-        <Image Margin="10,7,-186,-111" Source="/image.jpg" Stretch="Fill"/>
-
-    </Grid>
+    <TabControl>
+        <TabItem Header="TabItem">
+            <Grid Background="#FFE5E5E5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="72*"/>
+                    <ColumnDefinition Width="23*"/>
+                    <ColumnDefinition Width="870*"/>
+                </Grid.ColumnDefinitions>
+                <Image Margin="-17,0,7,0" Source="/image.jpg" Stretch="Fill" Height="521" VerticalAlignment="Center" Grid.ColumnSpan="3"/>
+            </Grid>
+        </TabItem>
+        <TabItem Header="TabItem">
+            <Grid Background="#FFE5E5E5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Image Margin="6,4,6,16" Source="/slide.jpg" Stretch="Fill"/>
+            </Grid>
+        </TabItem>
+    </TabControl>
 </Window>
