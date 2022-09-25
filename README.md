@@ -8,4 +8,6 @@ The project provides a high level overview of the academic knowledge associated 
 
 ##### reference 11th hr guide CFA level I/II
 
+![image](USCopyrightCertificate.png)
+
 Additional details reference https://github.com/alpaddesai/CFA and https://github.com/alpaddesai/TestScores
