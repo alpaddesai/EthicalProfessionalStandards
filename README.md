@@ -12,4 +12,4 @@ The project provides a high level overview of the academic knowledge associated 
 
 ![image](Ethics.jpg)
 
-Additional details reference https://github.com/alpaddesai/CFA and https://github.com/alpaddesai/TestScores
+Additional details reference https://github.com/alpaddesai/CFA
