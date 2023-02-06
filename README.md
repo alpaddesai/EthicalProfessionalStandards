@@ -14,4 +14,4 @@ Additional details download: https://github.com/alpaddesai/EthicalProfessionalSt
 
 ![image](Ethics.jpg)
 
-Additional details reference https://github.com/alpaddesai/CharteredFinancialAnalystExam
+Additional details reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
